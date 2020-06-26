@@ -1,10 +1,10 @@
-package sg.edu.React;
+package sg.edu.LeaveApplication;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Restful2ApplicationTests {
+class LeaveApplicationTests {
 
 	@Test
 	void contextLoads() {

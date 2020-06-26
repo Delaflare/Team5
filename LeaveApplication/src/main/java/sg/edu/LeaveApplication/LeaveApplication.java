@@ -1,13 +1,13 @@
-package sg.edu.React;
+package sg.edu.LeaveApplication;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Restful2Application {
+public class LeaveApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Restful2Application.class, args);
+		SpringApplication.run(LeaveApplication.class, args);
 	}
 
 }
